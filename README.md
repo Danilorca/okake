@@ -30,6 +30,9 @@ así todo quedará más hermoso :wink: </p>
 <h2> Capturas </h2>
 <img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img/logo_okake.png" width=115>
 
+
+<h2>Gracias por visitar </h2>
+<p> Proyecto hecho con amor </p>
 :green_heart: 	:sparkles:
 
 
