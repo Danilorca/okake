@@ -1,0 +1,20 @@
+
+.btn_navbar{
+  background-color: #6132AE !important;
+  color: yellow;
+}
+
+.btn_navbar:hover{
+  background: white !important;
+  color: #6132AE ;
+}
+
+.btn_salir{
+  border-color: #6132AE !important;
+  color: #6132AE !important;
+}
+
+.btn_salir:hover{
+  background-color: white !important;
+  color:#6132AE !important;
+}

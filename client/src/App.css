@@ -1,0 +1,326 @@
+App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", normal;
+}
+
+/* NAVBAR */
+.bg-nav-new {
+  background-color: #BCA4E3;
+}
+
+.container-fluid {
+  margin-left: 80px;
+  max-width: 1300px;
+}
+
+.navbar-nav {
+  justify-content: end;
+  width: 1200px;
+  align-items: center;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.navbar-link {
+  color: white !important;
+  font-family: "Lato" normal;
+  text-decoration: none;
+}
+
+.nav-render-info {
+  align-self: flex-end;
+}
+
+.logo {
+  width: 130px;
+  height: auto;
+  margin-left: 7%;
+}
+nav p {
+  margin: 0;
+}
+
+.nav-color{
+  color: white;
+}
+
+/* HEADER */
+.fotoheader {
+  background-image: url(./assets/img/fotoheader-01.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 720px;
+}
+
+h1{
+  padding-top: 240px;
+  padding-left: 150px;
+  font-size: 32px;
+  font-weight: 600;
+  height: 34px;
+  text-shadow: 2px 2px 2px black;
+  color: #E9E8F8;
+  /* color: #977fbe; */
+  font-family: "Merienda", cursive;
+}
+
+.typography-h2-header {
+  margin-top: 4%;
+  margin-bottom: 2%;
+  font-size: 32px;
+  font-weight: 600;
+  height: 34px;
+  text-align: center;
+  color: #6132ae;
+  font-family: "Merienda", cursive;
+}
+
+
+.btn-header{
+  padding: 10px 40px 10px 40px ;
+  margin-left: 150px;
+  margin-top: 100px;
+  background-color: #6132ae;
+  color: white;
+  border-radius: px;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.btn-header:hover{
+  background-color: #E9E8F8;
+  color:  #6132ae
+}
+
+
+/* PRODUCTOS */
+
+.typography-h2 {
+  margin: 4%;
+  font-size: 32px;
+  font-weight: 600;
+  height: 34px;
+  text-align: center;
+  color: #6132ae;
+  font-family: "Merienda", cursive;
+}
+
+.container_productos_subtitulos {
+  height: 20px;
+  color: #6132ae;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.container-card{
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.card-titulo{
+
+  color: #6132AE;
+  font-size: 24px;
+  font-weight: 600;
+  padding-top: 5px;
+}
+
+.card-descripcion{
+  font-size:16px;
+  color:#6132AE ;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 5px;
+}
+
+.card-precio{
+  font-size:16px;
+  color:#6132AE ;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+
+.btn-card-productos{
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #E9E8F8;
+  color: #6132ae;
+  border-radius: 7px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-card-productos:hover{
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: white;
+  color: #6132ae;
+  border-color: #6132ae;
+  border-radius: 7px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* FOOTER */
+
+section {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.icon {
+  margin-left: 7px;
+}
+
+.background_footer {
+  background-image: url(./assets/img/fondofooter.svg);
+  height: 360px;
+  background-size: cover;
+  padding-top: 70px;
+  padding-top: 150px;
+  margin-top: 35px;
+}
+
+.text_footer {
+  font-size: 16px;
+  color: white;
+  font-family: "Lato", sans-serif;
+  list-style: none;
+}
+
+.App-link {
+  color: #300051;
+}
+
+/* LOGING */
+.contact{
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* CREAR PRODUCTO */
+.form-products{
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.form-group{
+  padding-bottom: 15px;
+}
+
+
+
+.btn-form{
+  margin-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #6132ae;
+  color: white;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+.btn-form:hover {
+  margin-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: white;
+  color: #6132ae;
+  border: 1px solid #6132ae;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+/* LISTADO DE TODOS LOS PRODUCTOS */
+.table{
+  max-width: 800px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin: 0 auto;
+}
+
+
+th{
+  text-align: center;
+}
+
+td{
+
+  text-align: center;
+}
+
+.btns-list{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 30px;
+}
+.btn-list-edit{
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid #6132ae;
+  background-color: white;
+  color: #6132ae;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+.btn-list-edit:hover{
+  background-color: #6132ae;
+  color:white
+}
+
+
+
+
+.btn-list-delete{
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #E9E8F8;
+  color: #6132ae;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+.btn-list-delete:hover{
+  background-color: #6132ae;
+  color: white;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
