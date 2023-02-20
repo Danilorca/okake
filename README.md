@@ -13,7 +13,7 @@ Para ello existen 2 administradores: <br>
 También se utilizaron librerías como:
 <ul><li>Formik </li> 
 <li>Yup</li> 
-<li>Cors</li></ul>
+<li>Cors</li>
 <li>Axios</li></ul>
 </p>
 
