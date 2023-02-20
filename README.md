@@ -1,5 +1,5 @@
 <h1> Proyecto Okake - Full Stack</h1>
-<p> Okake es una pagina que permite manejar el inventario de productos. 
+<p> Okake es una página que permite manejar el inventario de productos.
 Para ello existen 2 administradores: <br>
 - General: Puede cargar, editar y borrar productos. <br>
 - Sucursal: Puede leer y editar productos.</p>
