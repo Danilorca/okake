@@ -12,7 +12,9 @@ Para ello existen 2 administradores: <br>
 <p> Se utilizó <b>HTML, CSS, React, Mongo Db, Node.js, Express </b> <br>
 También se utilizaron librerías como:
 <ul><li>Formik </li> 
+<li>Yup </li> 
 <li>Cors </li></ul>
+<li>Axios </li></ul>
 </p>
 
 <h2> Deploy</h2>
