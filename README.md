@@ -34,7 +34,6 @@ así todo quedará más hermoso :wink: </p>
 <img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/crear_producto.jpg" width=100%> <br>
 <img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/edit_productos.jpg" width=100%> <br>
 
-
 <h2>Gracias por visitar  	:sparkles: </h2>
 <p> Proyecto hecho con amor :green_heart: </p>
 
