@@ -16,7 +16,7 @@ También se utilizaron librerías como:
 </p>
 
 <h2> Deploy</h2>
-<p> Puedes visitarlo en AWS target="_blank" http://54.146.68.11/ 
+<p> Puedes visitarlo en AWS [http://54.146.68.11/] 
 
 Para entrar a la plataforma puedes registrarte o también puedes utilizar los siguientes datos: <br>
 
