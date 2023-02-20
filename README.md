@@ -16,7 +16,7 @@ También se utilizaron librerías como:
 </p>
 
 <h2> Deploy</h2>
-<p> Puedes visitarlo en AWS [http://54.146.68.11/] 
+<p> Puedes visitarlo en AWS http://54.146.68.11/ 
 
 Para entrar a la plataforma puedes registrarte o también puedes utilizar los siguientes datos: <br>
 
@@ -28,7 +28,8 @@ https://github.com/Danilorca/okake_assets/tree/main/img_productos <br>
 así todo quedará más hermoso :wink: </p>
 
 <h2> Capturas </h2>
-<img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img/logo_okake.png" width=115>
+<img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/header.jpg" width=100%> <br>
+<img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/productos.jpg" width=100%> <br>
 
 
 <h2>Gracias por visitar </h2>
