@@ -30,11 +30,14 @@ así todo quedará más hermoso :wink: </p>
 <h2> Capturas </h2>
 <img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/header.jpg" width=100%> <br>
 <img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/productos.jpg" width=100%> <br>
+<img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/rrss.jpg" width=100%> <br>
+<img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/crear_producto.jpg" width=100%> <br>
+<img src="https://raw.githubusercontent.com/Danilorca/okake_assets/main/img_landing_page/edit_productos.jpg" width=100%> <br>
 
 
-<h2>Gracias por visitar </h2>
-<p> Proyecto hecho con amor </p>
-:green_heart: 	:sparkles:
+<h2>Gracias por visitar  	:sparkles: </h2>
+<p> Proyecto hecho con amor :green_heart: </p>
+
 
 
 
